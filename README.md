@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AKSHAYYARALA
 - 👀 I’m interested in Fullstack Webdevelopment in Python using Django or Flask Frameworks. 
-- 🌱 I’m currently learning Integrating Django restAPIs' with ReactJS for Microservice frame architeture services.
+- 🌱 I’m currently learning Integrating Django REST API's' with ReactJS for Microservice frame architeture services.
 - 📫 How to reach me - 
           LinkedIN - https://www.linkedin.com/in/akshayyarala/
           Email - Yaralaakshayreddy@gmail.com
